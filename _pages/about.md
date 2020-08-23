@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,13 @@ redirect_from:
   - /about.html
 ---
 
+I am a Computer Science Ph.D. student at the University of Virginia. With an eclectic background through my education and engagements with organizations in different domains, I am passionate about finding interdisciplinary applications of data science, particularly in the field of life sciences, sports, literature, politics and engineering through my experience and expertise in Natural Language, Computer Vision and Computational Social Science.
+
+In the past, I have worked with [Dr. Donald E. Brown](https://engineering.virginia.edu/faculty/donald-e-brown-phd), [Dr. Sana Syed](https://research.med.virginia.edu/chrc/current-projects/sana-syed-md-ms/) and a team of researchers to develop a deep learning frameworks to predict and classify gastrointestinal diseases. The research is being carried out in collaboration with and is funded by the [Bill and Melinda Gates foundation](https://www.gatesfoundation.org/). 
+
+I completed my undergraduate education from the [Indian Institute of Technology, Roorkee](https://www.iitr.ac.in/) in 2017 where I presented my bachelor thesis titled “Data Driven Modeling of Composites” under the guidance of [Dr. Siladitya Pal](https://www.iitr.ac.in/departments/ME/pages/People+Siladitya_Pal.html). During this time, I was also a part of the [Information Management Group](https://img.channeli.in/), an exclusive campus coding society, as a member of which, I was involved with the development of various software and web-based applications. I also was the Editor-in-Chief of [Geek Gazette](https://geekgazette.org/), the campus technical magazine and a core member of the Quizzing Society. 
+
+<!-- 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
@@ -48,3 +55,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+ -->
