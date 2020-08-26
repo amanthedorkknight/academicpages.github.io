@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 3"
+title: "Solving the Stain Dilemma: Computational Image Analysis to Address Differential Tissue Staining Color Bias in Duodenal Biopsies"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: 'Celiac disease (CeD) is a chronic immune-mediated disease and the glutenfree diet (GFD) is the only treatment available, which requires significant patient education, lifetime motivation, and strict compliance. Few studies have evaluated GFD adherence and its association with patient outcomes.'
+date: 2019-05-01
+venue: 'Gastroenterology'
+paperurl: 'https://www.gastrojournal.org/article/S0016-5085(19)39255-8/abstract'
+citation: 'Syed, Sana, Aman Shrivastava, Karan Kant, Saurav Sengupta, Luke Kang, Marium N. Khan, Najeeha T. Iqbal et al. "Mo1992–solving the stain dilemma: Computational image analysis to address differential tissue staining color bias in duodenal biopsies." Gastroenterology 156, no. 6 (2019): S-914.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).

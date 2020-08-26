@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Aman Shrivastava"
   avatar           : "bio-photo.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "C.S. Ph.D. Student, University of Virginia <br> M.S. Data Science, University of Virginia <br> B.Tech. Mechanical Engineering, Indian Institute of Technology, Roorkee"
   location         : "Charlottesville, VA"
   employer         :
   pubmed           : 
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "amanshrivastava"
   orcid            : 
   pinterest        :
   soundcloud       :
