@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Aman Shrivastava"
   avatar           : "bio-photo.jpg"
-  bio              : "C.S. Ph.D. Student, University of Virginia <br> M.S. Data Science, University of Virginia <br> B.Tech. Mechanical Engineering, Indian Institute of Technology, Roorkee"
+  bio              : "C.S. Ph.D. Student, University of Virginia <br> as3ek [at] virginia [dot] edu"
   location         : "Charlottesville, VA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=8JKUMc8AAAAJ&hl=en"
-  email            : "as3ek@virginia.edu"
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
