@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Find the pdf [here](/files/CV_6.0.pdf).
+Find the pdf [here](http://www.cs.virginia.edu/~as3ek/files/CV_6.0.pdf).
 
 Education
 ======
